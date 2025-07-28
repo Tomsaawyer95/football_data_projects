@@ -1,0 +1,10 @@
+# 🐍 Fichiers de configuration de l'environnement virtuel
+p-env/
+.p-env/
+env/
+.env/
+
+# 🐍 Fichiers Python compilés
+__pycache__/
+*.py[cod]
+*$py.class

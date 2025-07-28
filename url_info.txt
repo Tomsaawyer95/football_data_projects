@@ -1,0 +1,6 @@
+
+https://www.transfermarkt.com/ceapi/marketValueDevelopment/graph/315858    Valeur marchande du joueur avec années
+
+https://tmapi-alpha.transfermarkt.technology/transfer/history/player/315858 historiques transferts du joueur
+
+https://tmapi-alpha.transfermarkt.technology/players?ids[]=315858 information sur le joueurs
