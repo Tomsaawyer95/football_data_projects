@@ -4,3 +4,7 @@ https://www.transfermarkt.com/ceapi/marketValueDevelopment/graph/315858    Valeu
 https://tmapi-alpha.transfermarkt.technology/transfer/history/player/315858 historiques transferts du joueur
 
 https://tmapi-alpha.transfermarkt.technology/players?ids[]=315858 information sur le joueurs
+
+https://www.transfermarkt.com/ceapi/player/283994/performancepercompetition    Performance du joueur par compétition
+
+https://www.transfermarkt.com/ceapi/player/181767/performanceperclub    Performance du joueur par club
